@@ -7,6 +7,7 @@ public class Samplegithubprm {
 		System.out.println("1423546");
 		System.out.println("1423546");
 		System.out.println("1423546");
+		System.out.println("1423548");
 	}
 
 }
